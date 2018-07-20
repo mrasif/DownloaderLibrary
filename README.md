@@ -13,7 +13,7 @@ allprojects {
 Step 2. Add the dependency:
 ```
 dependencies {
-        compile 'com.github.mrasif:DownloaderLibrary:v1.0.0'
+        implementation 'com.github.mrasif:DownloaderLibrary:v1.0.0'
 }
 ```
 ### For Maven:
